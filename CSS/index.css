@@ -1,0 +1,49 @@
+body {
+    background-color: #fcb;
+    text-align: center;
+}
+
+main {
+    margin-top: 50px;
+}
+
+label {
+    display: block;
+    margin-top: 20px;
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid #000;
+    background-color: #eaa;
+    width: 200px;
+    height: 40px;
+    margin: 20px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+input::placeholder {
+    text-align: center;
+    color: #222;
+}
+
+button {
+    border: none;
+    background-color: #48e;
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+ul {
+    text-align: left;
+}
+
+li {
+    margin: 10px;
+}
+
+footer {
+    text-align: left;
+}
